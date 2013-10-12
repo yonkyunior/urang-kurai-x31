@@ -1,0 +1,12 @@
+/* =================================================== */
+   @import url("basic-home.css");
+   @import url("b-about.css");
+   @import url("b-archive.css");
+   @import url("b-contact.css");
+   @import url("b-gallery.css");
+   @import url("b-video.css");
+   @import url("b-submit.css");
+   @import url("b-disqus-widget.css");
+   @import url("b-link-list.css");
+/* =================================================== */
+#wrap2 { padding-top: 40px; } #main { overflow: hidden; } #layout { position: relative; z-index: 2; } article#grid-archive, article#grid-gallery, article#grid-about,article#widget-comm { margin: 0 auto !important; padding: 10px 10px 100px 10px; width: 1000px; overflow: hidden; } .bg-1-top { position: absolute; top: 470px; left: 0; right: 0; z-index: 1; height: 27px; background-color: #7D921B; background-image: url(../image/police-line.png); background-position: bottom center; background-repeat: repeat-x; -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.9),0 0 12px rgba(0,0,0,.9)inset; -moz-box-shadow: 0 3px 6px rgba(0,0,0,.9),0 0 12px rgba(0,0,0,.9)inset; box-shadow: 0 3px 6px rgba(0,0,0,.9),0 0 12px rgba(0,0,0,.9)inset; } .bg-2-left { position: absolute; top: 0; left: 8%; bottom: 0; width: 10px; height: 470px; z-index: 1; background-image: url(../image/line-top.png); background-position: top right; background-repeat: repeat-y; } .bg-2-right { position: absolute; z-index: 1; top: 0; bottom: 0; right: 8%; width: 10px; height: 470px; background-image: url(../image/line-top.png); background-position: top right; background-repeat: repeat-y; } .gambar-p { position: relative; z-index: 5; height: 400px; overflow: hidden; } .gambar-p > .text-p { position: absolute; z-index: 5; top: 32px; left: 420px; width: 500px; } .gambar-p > .text-p > span.judul1 { position: relative; z-index: 7; padding: 6px 11px; font-size: 28px; font-family: "DIN-UK",arial narrow,arial,sans serif; font-weight: bold!Important; letter-spacing: 1px; text-transform: uppercase; line-height: .9em; color: #eee; } .gambar-p > .text-p p { position: relative; z-index: 7; padding: 0; margin: 0; font-size: 10px; line-height: 14px; } 
