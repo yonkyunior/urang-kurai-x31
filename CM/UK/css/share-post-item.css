@@ -1,0 +1,470 @@
+
+@import url("http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/css/comment-blogger.css");
+
+body#destop.item.small .blog-post-container .comments { display: inline;margin:0!Important;width:99.444% ;}
+#comments.comments .comment-form.no_comment{
+background-color:#fff;
+width:97%;
+padding:20px 0 20px 20px!important;
+float:left;
+}
+
+#comments.comments .comment-form.no_comment iframe{
+width:98%!Important;
+box-shadow:none!Important;
+-webkit-box-shadow:none!Important;
+margin:0 auto!Important;
+}
+#comments.comments header span {
+line-height:1em!important;
+
+}
+.content.first header span.user{
+font-size:1.3em;
+
+}
+
+.blog-post-container{
+line-height:1.5em;
+margin:0 auto;
+width: 1140px;
+}
+.blog-post-container h1{
+padding:0;
+line-height:1em;
+ font-weight:300;
+ font-size:4em;
+ color:#555;
+ background:none!Important;
+}
+.blog-post-container h1 a{
+ color:#555;
+ }
+.blog-post-container h3{
+padding:0;
+ font-weight:300;
+ line-height:1.2em;
+ font-size:2em;
+  color:#555
+}
+.blog-post-container h3 a{
+  color:#555
+  }
+.blog-post-container .eightcol  img{
+padding:0;
+max-width:100%!important;
+height:auto!Important;
+}
+.blog-post-container p{
+margin:10px 0;
+
+}
+
+.blog-post-container .row .eightcol,
+.blog-post-container .row .fourcol{
+float:left;
+
+}
+.blog-post-container .row .eightcol {
+margin:0 2px 0 0;
+width: 69.01%;
+}
+.blog-post-container .row .fourcol{
+margin:0;
+}
+.blog-post-container .span26 {
+
+    background-color: rgba(30,30,30, 0.4);
+    background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADd0lEQVR4nO2dwZHCQAwE930hkAZxkAZxkAZxkAZxEMd9z3OUmznuI6r7t7X22stDsjTSsi6Xy9f6wfl83oyv1+vu+H6/b8a3220zfjwem/HxeNydX2ttxofDoXpe3p/X535zvt1frpf7y/fP+/N6EZFJpM0kG5vzOT6dTrtj8glks3M+12tteuuTaH/pg2m9vF5EZBIUN5CNzPkVNjLXT59FcQr5uLw/5/P5OSYfl+Pcf/qgBXFQ3p/ri4hMgnIz7Xc5feeTTaZcV75frpfX53yun/vL98n1ckz7ozjuSS5PRGQMZEOffCdTPr+y4WSjyWdQHJTjNg6i55EPzue98P4iImOg72j6zk+bS3pBjtPmLvBReX++f75f2vC8P+fJp+b15BPp91VTF5HJkL5BuSGyue/mpqhubIXPafUQ0uypZoA0dMqdpU8SERnGWzaf9APySZQLIh/zxAZX709xSq6Xv0/6HPIx5JNERCZBdUOUG6I6JcodkU8gH0A+Jm0+5c4ol9fWabW1yCIik2jjCKq9pdwO1RKT3tDWYbV1YxQ30X5JryF9RURkEm1d0wu5GNKMd210zpNPIB9CffYUl5DN/+8eSxGRSVBtLekVC3rqcp7iiFZ/yfdrzxYhn9P21ZMeQrktEZFJkEZMtbP0HU76BGn4pElTPwvlnshHUJ0Z5QIpjlIPEZHJkA+g2tR3fQBp7mRzW02fNG3qqaR50keoLkxEZBJp81qNeJV96aSZk97RnsXSaviUiyKfRbk+fYiIfBhk0yobTd/57VnsdA4v+bRW/2jrzNqzU2g/IiKToLoj+m5fUGfV5o4obmnPMCQbTvujfpA2bnrhbHgRkTGQhkzf3aQ5U+1v23dO17fnU1Ec09YCU67O/hAR+STIZ9A5tXRmYXuWCGn2ZNMpziEb3mr0NN/WKIiITIJ6AHNMNjGvb/u827iC+lmoX4Tej3wSndnY5rZERCZBNvW/NfG2v6M9a556Ftu+89wP5aYozrAuS0Q+CcpVrTIuIZtLekF7JmJ79nwbN7U9krQerS8iMgmyce3Z7dRP8Yc6pV0fRP/5RD6O+sjpesq9UVxmLktEJkPf0a1mTmcoUq6M9Im2Fpf0CTrbne5v/4PqhTo0EZExtOfQUi1sjtuz5fP+fB7pC6TvkF5Bmnyrz1Cctn7/fiIiU/gG9i5uLQnuYhUAAAAASUVORK5CYII=);
+    border: 1px solid #181818;
+    box-shadow: 0 1px 2px #000;
+    -webkit-box-shadow: 0 2px 3px #000;
+    margin:0 1px 10px 0;
+   display:block;
+   float:left;
+
+
+
+}
+.blog-post-container .row .eightcol  .span26{
+padding:4em!important;
+width:85.6%;
+
+}
+.blog-post-container .span26.img12{
+padding:0!important;
+width:98.8%
+}
+.blog-post-container .span26.img12 .span16{
+padding:0 2em 1.2em 0;
+float:left;
+width:30%;
+}
+.blog-post-container .fourcol .span26{
+ width:289px;
+float:left;
+   padding: 2em;
+       background-color: rgba(50,50,50, 0.4);
+}
+ .span26.ads77{
+ width:342px!Important;
+ padding:0!Important;
+ }
+
+.blog-post-container .span26.img12 .span25{
+width:65.2%!important;
+float:left;
+
+}
+.blog-post-container .span26.img12 .span25 img{
+max-width:100%!important;
+margin:0 0 0 3px!Important;
+box-shadow:0 7px 10px rgba(0,0,0,0.65);
+padding:8px;
+border:1px solid #2f2f2f;;
+background-color:#222;
+}
+.tag_25 .share,
+.label_show23 .red,
+.label_show23 .blue{
+display:none;
+}
+
+ .label_show23.widget-content,
+.popular_show23.widget-content{
+display:none;
+}
+.blog-post-container .fourcol .widget-content{
+display:block!important;
+width:100%;
+float:left;
+}
+.blog-post-container .fourcol .label_show23.widget-content {
+width:100%;
+float:left;
+
+}
+.show_comments.post-share{
+width:100%!Important;
+float:left;
+}
+.show_comments.post-share span{
+margin:0 0 0 60px!Important}
+.blog-post-container .fourcol .label_show23.widget-content ul li{
+float:left;
+list-style:none;
+margin:0 2px 2px 0;
+padding:0;
+width:49%;
+}
+.blog-post-container .fourcol .label_show23.widget-content ul li span{
+background:#333;
+width:1.8em;
+height:1.8em;
+line-height:1.5em;
+text-align:center;
+display:inline-block;
+float:left;
+margin:0 10px 0 0;
+}
+
+.blog-post-container .fourcol .popular_show23 ul li{
+list-style:none;
+width:100%;
+    background-color: rgba(130,130,130, 0.1);
+    box-shadow: 0 1px 1px #000;
+    -webkit-box-shadow: 0 1px 1px #000;
+margin:0;
+
+}
+
+.blog-post-container .fourcol .popular_show23 ul li img{
+float:left;
+padding:10px;
+width:50px;
+height:auto;
+margin:0 10px 0 0;
+}
+.blog-post-container .fourcol .popular_show23 ul li .item-title{
+margin:8px 0 0 0;
+float:left;
+}
+
+.blog-post-container .fourcol .span27{
+float:left;
+width:100%;
+border-bottom:1px solid #222;
+padding:10px 0;
+}
+.blog-post-container .fourcol h4{
+line-height:1.5em;
+margin:-15px 0 0 0;
+padding:0 0 15px 0;
+}
+
+
+
+html {
+    background-color: #0e0e0e;
+}
+.item .gambar .item24{display:none;}
+body#destop {
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/bg-body.jpg);
+    background-color: #161616;
+    color: #555;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+    font-size: small;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+body#destop #layout {
+    background: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/shadow.png);
+    background: -moz-radial-gradient(center center, circle cover, hsla(0,0%,0%,.0) 0%, hsla(0,0%,3%,9) 100%)no-repeat;
+    background: -webkit-gradient(radial, center center, 0, center center, 800, from(hsla(0,0%,0%,.0)), to(hsla(0,0%,3%,9)) );
+    background: -o-radial-gradient(center, ellipse cover, rgba(0,0,0,0) 0%,rgba(0,0,0,0.85) 100%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(0,0,0,0) 0%,rgba(0,0,0,0.85) 100%);
+    background: radial-gradient(ellipse at center, rgba(0,0,0,0) 0%,rgba(0,0,0,0.85) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#d9000000',GradientType=1 );
+    margin: 0!important;
+    padding: 0!important;
+}
+
+body#destop a.x-blog-share {
+    color: #C6EB04!important;
+    display: inline!Important;
+    ;text-shadow: 0 0 10px #C6EB04 ,0 0 20px #C6EB04,0 0 30px #C6EB04!important;
+}
+
+body#destop article.post-body {
+    margin: 40px 0 100px 0;
+} 
+/* header */header.header {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 20;
+    overflow: hidden;
+    text-align: left;
+    border-bottom: 1px solid #22231F;
+    background-color: #111211;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/pattern.png);
+    background-repeat: repeat;
+    -webkit-box-shadow: 0 -1px 3px hsla(0,0%,0%,.9), 0 2px 6px rgba(0, 0, 0, .9), inset 0 1px 0 hsla(0,0%,100%,.2);
+    -moz-box-shadow: 0 -1px 3px hsla(0,0%,0%,.9), 0 2px 6px rgba(0, 0, 0, .9), inset 0 1px 0 hsla(0,0%,100%,.2);
+    box-shadow: 0 -1px 3px hsla(0,0%,0%,.9), 0 2px 6px rgba(0, 0, 0, .9), inset 0 1px 0 hsla(0,0%,100%,.2);
+}
+
+body#destop header.header {
+    margin: 0 auto!important;
+}
+
+body#destop header.header section.header11 {
+    width: 950px;
+    margin: 0 auto;
+}
+
+body#destop header.header section.header11 .nav {
+    margin-bottom: 0!important;
+    padding-bottom: 15px!important;
+    padding-top: 15px;
+    text-align: left;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+body#destop header.header section.header11 .nav li {
+    display: inline!important;
+    font-weight: normal!important;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/dot-circle.png);
+    background-repeat: no-repeat;
+    background-position: 0 7px;
+    padding: 5px 18px 0 20px!important;
+}
+
+body#destop header.header section.header11 .nav a {
+    font-size: 12px!Important;
+    font-weight: bold!Important;
+    color: #40413E;
+    text-shadow: 0 -1px 1px hsla(1,1%,1%,.9);
+    text-transform: uppercase;
+    padding: 0!important;
+}
+
+body#destop a.x-blog {
+    display: none;
+}
+
+body#destop header.header section.header11 .nav a:hover {
+    color: #fff;
+} /* main */body#destop .post,.main {
+    line-height: 0;
+    width: 1120px;
+    margin: 0 auto!important;
+}
+
+body#destop .footer-width {
+    max-width: 1040px;
+    margin: 0 auto;
+}
+
+#toggle-container,.article,#loading,.fotter-fixed ,#overlay-all-menu,.center-start-menu {
+    display: none!important;
+}
+
+body#destop footer.footerwrap {
+    position: relative;
+    margin: 0 auto!important;
+    padding: 0!important;
+    width: 100%;
+    z-index: 2;
+    color: #444;
+    text-align: left;
+    font-size: 11px;
+    background-color: rgba(0, 0, 0, .5)!important;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/top-arrow-dark.png);
+    background-repeat: repeat-x;
+    background-position: top center;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .9) inset;
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .9) inset;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .9) inset;
+}
+
+body#destop footer.footerwrap div.footerbody {
+    background-color: rgba(0, 0, 0, .6)!important;
+}
+
+body#destop footer.footerwrap a {
+    color: #444;
+    text-decoration: none;
+} /* footer 3 kolom */footer.footerwrap article.footergrd {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 99%;
+    padding-bottom: 20px;
+    padding-top: 2%;
+}
+
+body#destop footer.footerwrap p {
+    font-size: 11px;
+}
+
+body#destop footer.footerwrap article.footergrd section.footergrd-c1 h5, body#destop footer.footerwrap article.footergrd section.footergrd-c2 h5, body#destop footer.footerwrap article.footergrd section.footergrd-c3 h5 {
+    padding: 0 0 4px 0;
+    font-size: 29px;
+    color: #444;
+    text-shadow: 0 -1px 1px hsla(0,0%,0%,.8);
+    text-transform: uppercase;
+}
+
+body#destop footer.footerwrap article.footergrd section.footergrd-c2 h5, body#destop footer.footerwrap article.footergrd li, body#destop footer.footerwrap article.footergrd section.footergrd-c3 h5 {
+    padding: 4px;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/line-border.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+body#destop footer.footerwrap article.footergrd section.footergrd-c2 li, body#destop footer.footerwrap article.footergrd section.footergrd-c2 h5, body#destop .blog-post-container h1 {
+    border: none!Important;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/line-border.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+body#destop footer.footerwrap article.footergrd section.footergrd-c1 h5 {
+    padding: 4px;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/small-line-border-1.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+
+body#destop .footergrd-m1, body#destop .footergrd-m2, body#destop .footergrd-m3 {
+    width: 3%;
+    height: 1px;
+    float: left;
+} /* footer credit*/body#destop aside#bawahbana {
+    display: block;
+    position: relative;
+    z-index: 2;
+    background-color: #0e0e0e;
+    background-image: url(http://urang-kurai-x31.googlecode.com/svn/trunk/CM/UK/image/pattern.png);
+    background-repeat: repeat;
+    -webkit-box-shadow: 0 1px 2px hsla(0,0%,0%,.9), 0 -2px 4px rgba(0, 0, 0, .3), inset 0 1px 0 hsla(0,0%,100%,.2);
+    -moz-box-shadow: 0 1px 2px hsla(0,0%,0%,.9), 0 -2px 4px rgba(0, 0, 0, .3), inset 0 1px 0 hsla(0,0%,100%,.2);
+    box-shadow: 0 1px 2px hsla(0,0%,0%,.9), 0 -2px 4px rgba(0, 0, 0, .3), inset 0 1px 0 hsla(0,0%,100%,.2);
+}
+
+body#destop aside#bawahbana p {
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 14px 0;
+    z-index: 999;
+    font: bold 11px 'Open Sans',arial narrow,arial,sans serif;
+    text-shadow: 0 -1px 1px hsla(0,0%,0%,.8);
+    color: #353535;
+    text-align: center;
+}
+.span26.ads77{
+padding:0!Important;}
+.detail h2{
+line-height:1.5em;
+padding:0 0 10px 0;}
+
+.detail ul li{
+list-style:none;
+float:left;
+padding:10px 0;
+
+width:29%;
+text-align:center;
+padding:1px 10px 1px  1px;
+font-size:9px;
+
+}
+.detail ul {
+float:left;
+width:100%;
+margin:0 0 40px 0;
+}
+.detail ul li a{
+background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.18);
+box-shadow: 0px 0px 1px 0px rgba(150, 150, 150, 0.3);
+border: 1px solid rgba(0, 0, 0, 0.25);
+color:#555;
+padding:20px 0;
+width:100%;
+float:left;
+
+}
+iframe.fb-item{
+width:233px;
+height:40px;
+margin:20px 0 0 0;
+float:left;
+padding:20px 20px 0 20px;
+background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.18);
+box-shadow: 0px 0px 1px 0px rgba(150, 150, 150, 0.3);
+border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.detail ul li a.fb_share:hover{
+background-color:#354462;
+}
+.detail ul li a.twitter_share:hover{
+background-color:#4198b2;
+}
+.detail ul li a.google_share:hover{
+background-color:#9a3a2f;
+}
+.scroll-to-fixed-fixed .time_25,
+.scroll-to-fixed-fixed .tag_25,
+.scroll-to-fixed-fixed iframe{
+display:none;
+}
+.scroll-to-fixed-fixed ul{
+margin:0!important;
+}
